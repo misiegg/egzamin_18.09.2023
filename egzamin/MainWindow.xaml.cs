@@ -25,6 +25,7 @@ namespace egzamin
             InitializeComponent();
             stanowiskoEntry.ItemsSource = combobox;
         }
+
         string haslo = "";
 
         List<String> combobox = new List<String>() {
