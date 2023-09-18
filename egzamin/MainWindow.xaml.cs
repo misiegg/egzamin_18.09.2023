@@ -28,6 +28,8 @@ namespace egzamin
 
         string haslo = "";
 
+
+
         List<String> combobox = new List<String>() {
         "kierownik","młodszy programista","starszy programista","tester"}
         ;
